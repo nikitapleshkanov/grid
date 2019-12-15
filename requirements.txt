@@ -8,4 +8,4 @@ pipenv==11.10.0
 virtualenv==15.2.0
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
-gunicorn==20.0.4
+gunicorn==19.7.1
